@@ -1,4 +1,4 @@
-#HangmanGame
+# Hangman Game
 
 **Hangman is a guessing game.**
 
